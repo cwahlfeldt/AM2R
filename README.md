@@ -1,3 +1,2 @@
-# AM2R git init git add README.md git commit -m first commit git remote add origin https://github.com/cwahlfeldt/AM2R.git git push -u origin master
-# AM2R git init git add README.md git commit -m first commit git remote add origin https://github.com/cwahlfeldt/AM2R.git git push -u origin master
-# AM2R
+![alt tag](https://i.ytimg.com/vi/mIx2rfiMkF4/maxresdefault.jp://i.ytimg.com/vi/mIx2rfiMkF4/maxresdefault.jpg)
+![alt tag](http://i.imgur.com/tNGEyNw.png)
